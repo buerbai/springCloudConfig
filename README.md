@@ -1,0 +1,2 @@
+# springCloudConfig
+用来存放springCloud各微服务的文件
